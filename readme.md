@@ -6,7 +6,7 @@
 - 🌱 I’m currently working on everything 🤣
 - 💞️  I’m looking to collaborate with other fullstack developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- 📫 How to reach me hirwaaldo1@gmail.com
+- 📫 How to reach me ntwaliedson9@gmail.com
 
 ### Connect With me :
 Gmail: ntwaliedson@gmail.com
