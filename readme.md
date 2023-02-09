@@ -2,7 +2,7 @@
 
 ### I'am Developer ! 
 - 👋 Hi, I’m Edson ntwali.
-- 👀 I’m interested in Web and App development. 
+- 👀 Strong focus on full-stack development.
 
 ### Connect With me :
 Email: [ntwaliedson9@gmail.com](mailto:ntwaliedson9@gmail.com) 
